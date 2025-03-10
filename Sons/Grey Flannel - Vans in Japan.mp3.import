@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dyste8l7tndik"
+path="res://.godot/imported/Grey Flannel - Vans in Japan.mp3-0385470ee809c5c0bffad0abf703bc36.mp3str"
+
+[deps]
+
+source_file="res://Sons/Grey Flannel - Vans in Japan.mp3"
+dest_files=["res://.godot/imported/Grey Flannel - Vans in Japan.mp3-0385470ee809c5c0bffad0abf703bc36.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

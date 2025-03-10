@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cumdus55quhyo"
+path="res://.godot/imported/6 Shots - NEFFEX.mp3-065f1885c9099f309d142b7d9448cd31.mp3str"
+
+[deps]
+
+source_file="res://Sons/6 Shots - NEFFEX.mp3"
+dest_files=["res://.godot/imported/6 Shots - NEFFEX.mp3-065f1885c9099f309d142b7d9448cd31.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

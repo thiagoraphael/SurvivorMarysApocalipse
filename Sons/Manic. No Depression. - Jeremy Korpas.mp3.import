@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://cpwytx4fu2yhw"
+path="res://.godot/imported/Manic. No Depression. - Jeremy Korpas.mp3-e8c610b47e26044bf3eeb22a9311f08b.mp3str"
+
+[deps]
+
+source_file="res://Sons/Manic. No Depression. - Jeremy Korpas.mp3"
+dest_files=["res://.godot/imported/Manic. No Depression. - Jeremy Korpas.mp3-e8c610b47e26044bf3eeb22a9311f08b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c06ywospn1wni"
+path="res://.godot/imported/Tuff Data - Vans in Japan.mp3-3e2f720b0d6367e739f73a2502e01d39.mp3str"
+
+[deps]
+
+source_file="res://Sons/Tuff Data - Vans in Japan.mp3"
+dest_files=["res://.godot/imported/Tuff Data - Vans in Japan.mp3-3e2f720b0d6367e739f73a2502e01d39.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

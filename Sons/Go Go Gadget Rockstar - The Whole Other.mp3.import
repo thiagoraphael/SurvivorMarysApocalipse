@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://dno50g4hnyro6"
+path="res://.godot/imported/Go Go Gadget Rockstar - The Whole Other.mp3-d1b28fdc975488fa7824df21e17c32ed.mp3str"
+
+[deps]
+
+source_file="res://Sons/Go Go Gadget Rockstar - The Whole Other.mp3"
+dest_files=["res://.godot/imported/Go Go Gadget Rockstar - The Whole Other.mp3-d1b28fdc975488fa7824df21e17c32ed.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
